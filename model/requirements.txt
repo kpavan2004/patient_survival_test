@@ -1,0 +1,6 @@
+xgboost
+gradio
+prometheus-client
+fastapi
+uvicorn
+scikit-learn
